@@ -19,3 +19,6 @@
 - key: removeGrouping
   name: Remove grouping
   checked: false
+- key: replacevarname
+  name: Replace var name
+  checked: false
